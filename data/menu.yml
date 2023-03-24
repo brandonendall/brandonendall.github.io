@@ -1,0 +1,12 @@
+- item: About
+  url: "about"
+- item: Endalldium
+  url: "https://t.me/+OwZn09oTLKw2MTAx"
+- item: Contact Us
+  url: "/contact-us"
+- item: Blog
+  url: ""
+- item: Category
+  url: categories
+- item: Tag
+  url: tags
